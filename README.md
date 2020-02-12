@@ -40,5 +40,5 @@ The second part implements an Android application that helps the user interact w
  5. A Google Maps screen should open with your 'top-recommendations (Figure2) 
 
 ### Figures
-* <img src="fig2.jpg" width="900" align="center">  
-* <img src="fig1.jpg" width="900" align="center">
+* <img src="fig2.jpg" width="300" align="center">  
+* <img src="fig1.jpg" width="300" align="center">
