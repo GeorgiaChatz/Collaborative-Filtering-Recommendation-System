@@ -4,7 +4,7 @@ based on "Collaborative Filtering for Implicit Feedback Datasets"
 It is the implementation / application of our project in "Distributed Systems" Course \
 Department: Computer Science,Athens University of Economics and Business ([aueb.gr/cs](https://www.dept.aueb.gr/en/cs)) \
 
-The project is coded in **Java** and using xxx libraries.
+The project is coded in **Java** and **Android Studio**.
 
 The directory structure of the project is shown below.
 
